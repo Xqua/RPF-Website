@@ -167,10 +167,16 @@ article{
             left: 150px;
             width: 200px;
         }
+        #section-3 .fixed2{
+            position: fixed;
+            top: 150px;
+            left: 150px;
+            width: 400px;
+        }
 
         #section-3 .photos-inner{
-            margin-left:220px;
-            width:70%;
+            margin-left:420px;
+            width:50%;
         }
 
         #section-3  .photos-inner img{
@@ -189,7 +195,18 @@ article{
             margin-top: 10%;
 }
 
-#section-4 h2 {
+#section-8 section{
+            margin-left: 5%;
+            margin-right: 5%;
+            margin-top: 10%;
+}
+
+#section-8 h4 {
+    font-style: italic;
+    font-style: bold;
+}
+
+#section-4 h4 {
     font-style: italic;
 }
 
